@@ -131,7 +131,7 @@ Trichy,India
 
 Reading, Pennsylvania
 
-Mysore, India
+Mysore,karnataka, India
 
 San Antonio, Texas
 
